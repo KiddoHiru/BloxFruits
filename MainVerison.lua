@@ -1,1 +1,0 @@
-local r={V1="https://raw.githubusercontent.com/KiddoHiru/BloxFruits/main/FluentVersisonV1.lua";V2="https://raw.githubusercontent.com/KiddoHiru/BloxFruits/main/RedzVersisonV2.lua"}local H=(getgenv()).Version or"V2";(loadstring(game:HttpGet(r[H]or r.V2)))()
